@@ -14,6 +14,7 @@ public class Principal {
     private JSpinner quantityNumber;
     private JButton generateButton;
     private JPanel panel1;
+    private JButton loadFileButton;
     private final ButtonGroup gameTypes;
 
     public Principal(JFrame fillFile, int frameWidth, int frameHeight) throws ParseException {
